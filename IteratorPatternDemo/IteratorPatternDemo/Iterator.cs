@@ -4,6 +4,6 @@ namespace IteratorPatternDemo
     public interface Iterator
     {
         bool HasNext();
-         Object Next();
+        Object Next();
     }
 }
