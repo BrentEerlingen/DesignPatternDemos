@@ -1,0 +1,18 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp2.0</TargetFramework>
+  </PropertyGroup>
+  <ItemGroup>
+    <Folder Include="DI\After" />
+    <Folder Include="DI\Before" />
+    <Folder Include="ISP\After" />
+    <Folder Include="ISP\Before" />
+    <Folder Include="LSP\After" />
+    <Folder Include="LSP\Before" />
+    <Folder Include="OC\After" />
+    <Folder Include="OC\Before" />
+    <Folder Include="SRP\After" />
+    <Folder Include="SRP\Before" />
+  </ItemGroup>
+</Project>
